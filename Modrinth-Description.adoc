@@ -6,7 +6,12 @@ This pack contains both client- and server-side mods:
 * https://modrinth.com/mod/controlling[Controlling]
 * https://modrinth.com/mod/diagonal-fences[Diagonal Fences]
 * https://modrinth.com/mod/diagonal-panes[Diagonal Panes]
+* connectible chains
 * https://modrinth.com/mod/emi[EMI]
+* emiffect
+* emitrades
+* entityculling
+* comforts
 * https://modrinth.com/mod/light-overlay[Light Overlay]
 * https://modrinth.com/plugin/tabtps[TabTPS]
 * https://modrinth.com/datapack/vanilla-refresh[Vanilla Refresh]
@@ -23,3 +28,5 @@ This pack contains both client- and server-side mods:
 * Patchouli (?)
 * malilib-fabric (?)
 * theoneprobe-fabric
+* durability plus
+* 
