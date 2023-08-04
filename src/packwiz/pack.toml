@@ -1,4 +1,4 @@
-name = "q1cc-create-modpack"
+name = "q1cc-simple-modpack"
 author = "xicesky"
 version = "0.1.1-1.20.1"
 description = "A multiplayer \"factory building\" experience focused on Create"
