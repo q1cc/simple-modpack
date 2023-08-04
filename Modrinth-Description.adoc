@@ -32,4 +32,3 @@ Add later, when mods are available for 1.20.1:
 * emiffect
 * emitrades
 * https://modrinth.com/mod/light-overlay[Light Overlay]
-
