@@ -1,4 +1,4 @@
-= q1cc Create Modpack
+z= q1cc Create Modpack
 :experimental:
 :source-highlighter: rouge
 :source-language: shell
@@ -7,11 +7,11 @@
 :sectanchors:
 :star: *
 
-A multiplayer "factory building" experience focused on [Create](https://modrinth.com/mod/create).
+A simple modpack to improve the vanilla experience.
 
 == Download
 
-https://modrinth.com/modpack/q1cc-create-modpack[Download on Modrinth!]
+https://modrinth.com/modpack/q1cc-simple-modpack[Download on Modrinth!]
 
 https://prismlauncher.org/download/[We recommend using PrismLauncher to install and play the modpack.]
 
