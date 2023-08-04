@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods.list"
-hash = "4754a310df96adcb4153b2bef5c8f76faa142dfcd41c1602c75f5f9bd27b85e5"
-
-[[files]]
-file = "mods.list.2"
-hash = "09caef4371f5c3a1572c446fe3547decfb5b446e95f0233082e09e92064d3dff"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
