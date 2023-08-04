@@ -1,4 +1,4 @@
-z= q1cc Create Modpack
+= q1cc Create Modpack
 :experimental:
 :source-highlighter: rouge
 :source-language: shell
