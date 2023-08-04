@@ -5,14 +5,10 @@ This pack contains both client- and server-side mods:
 * https://modrinth.com/mod/carry-on[Carry On]
 * https://modrinth.com/mod/controlling[Controlling]
 * https://modrinth.com/mod/diagonal-fences[Diagonal Fences]
-* https://modrinth.com/mod/diagonal-panes[Diagonal Panes]
 * connectible chains
 * https://modrinth.com/mod/emi[EMI]
-* emiffect
-* emitrades
 * entityculling
 * comforts
-* https://modrinth.com/mod/light-overlay[Light Overlay]
 * https://modrinth.com/plugin/tabtps[TabTPS]
 * https://modrinth.com/datapack/vanilla-refresh[Vanilla Refresh]
 * Mouse Wheelie
@@ -20,7 +16,6 @@ This pack contains both client- and server-side mods:
 * Lithium
 * Indium
 * Phosphor
-* CTM Refabricated
 * AppleSkin
 * Fabric API
 * Mod Menu
@@ -29,4 +24,12 @@ This pack contains both client- and server-side mods:
 * malilib-fabric (?)
 * theoneprobe-fabric
 * durability plus
-* 
+* searchables
+
+Add later, when mods are available for 1.20.1:
+* https://modrinth.com/mod/diagonal-panes[Diagonal Panes]
+* CTM Refabricated
+* emiffect
+* emitrades
+* https://modrinth.com/mod/light-overlay[Light Overlay]
+
